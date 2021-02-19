@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/visualSortingAlgorithims/static/css/main.02176cd2.chunk.css",
-    "main.js": "/visualSortingAlgorithims/static/js/main.f428d1ca.chunk.js",
-    "main.js.map": "/visualSortingAlgorithims/static/js/main.f428d1ca.chunk.js.map",
-    "runtime-main.js": "/visualSortingAlgorithims/static/js/runtime-main.2752b6b1.js",
-    "runtime-main.js.map": "/visualSortingAlgorithims/static/js/runtime-main.2752b6b1.js.map",
-    "static/js/2.f2e25a58.chunk.js": "/visualSortingAlgorithims/static/js/2.f2e25a58.chunk.js",
-    "static/js/2.f2e25a58.chunk.js.map": "/visualSortingAlgorithims/static/js/2.f2e25a58.chunk.js.map",
-    "index.html": "/visualSortingAlgorithims/index.html",
-    "static/css/main.02176cd2.chunk.css.map": "/visualSortingAlgorithims/static/css/main.02176cd2.chunk.css.map",
-    "static/js/2.f2e25a58.chunk.js.LICENSE.txt": "/visualSortingAlgorithims/static/js/2.f2e25a58.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.02176cd2.chunk.css",
+    "main.js": "/static/js/main.f428d1ca.chunk.js",
+    "main.js.map": "/static/js/main.f428d1ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
+    "static/js/2.f2e25a58.chunk.js": "/static/js/2.f2e25a58.chunk.js",
+    "static/js/2.f2e25a58.chunk.js.map": "/static/js/2.f2e25a58.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.02176cd2.chunk.css.map": "/static/css/main.02176cd2.chunk.css.map",
+    "static/js/2.f2e25a58.chunk.js.LICENSE.txt": "/static/js/2.f2e25a58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2752b6b1.js",
+    "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.f2e25a58.chunk.js",
     "static/css/main.02176cd2.chunk.css",
     "static/js/main.f428d1ca.chunk.js"
